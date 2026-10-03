@@ -2,10 +2,10 @@
   "version": 2,
   "data": {
     "syncclipboard-desktop-bin": {
-      "version": "3.3.0",
-      "gitref": "refs/tags/v3.3.0",
-      "url": "https://github.com/Jeric-X/SyncClipboard/releases/tag/v3.3.0",
-      "creation_time": "2026-09-25T16:06:29Z"
+      "version": "3.3.1",
+      "gitref": "refs/tags/v3.3.1",
+      "url": "https://github.com/Jeric-X/SyncClipboard/releases/tag/v3.3.1",
+      "creation_time": "2026-10-02T05:10:46Z"
     }
   }
 }
